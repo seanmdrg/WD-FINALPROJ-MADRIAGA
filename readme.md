@@ -71,8 +71,9 @@ Guiding Question:
 - Whats the purpose
 - Showcase Starbucks products, including beverages, food, and gift cards.
 - What are key components
-- 
+- The homepage, navbar, body, brand, and footer.
 - What technology used and how it is used
+- This project combines design and functionality to replicate the Starbucks experience in a digital format, making it engaging and user-friendly.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
