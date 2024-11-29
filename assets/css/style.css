@@ -1,0 +1,179 @@
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; 
+    color: #4a2c2a; 
+
+}
+
+.navbar {
+
+    background-color: #ffffff; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 30px; 
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.123);
+    font-size: small;
+}
+
+
+
+.navbar .navbar-brand, .navbar-nav .nav-link {
+    color: #28233d !important; 
+}
+
+
+
+.navbar .navbar-brand:hover, .navbar-nav .nav-link:hover {
+    color: #036635 !important; 
+}
+
+
+
+
+header {
+
+     background-color: #ffffff ; 
+    background-size: cover;
+    color: #f4f1e1;
+    padding: 10em 0;
+    text-align: center;
+    height: 400px; 
+
+}
+
+
+
+header h1 {
+
+    font-size: 3em;
+
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+section {
+
+    padding: 40px 20px;
+
+}
+
+.carousel{
+    margin-top: 10px;
+}
+
+.carousel, .carousel-inner {
+    height: 100vh;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+  }
+
+  .carousel-caption {
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+
+  .image-text-section {
+    background-color: #01581d;
+    padding: 50px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+.image-text-section-secondary {
+    background-color: #f42032;
+}
+
+.image-text-section img {
+    width: 75%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.image-text-section .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-text-section .content {
+    text-align: center;
+}
+
+.image-text-section h2 {
+    font-size: 2rem;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.image-text-section p {
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+.btn-outline-custom {
+    background-color: transparent; /* No background */
+    color: white; /* White text */
+    border: 2px solid white; /* White outline */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 5px; /* Rounded corners */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.btn-outline-custom:hover {
+    background-color: white; /* Background turns white on hover */
+    color: black; /* Text turns black on hover */
+}
+
+
+footer {
+    background-color: #ffffff; 
+    color: #28233d;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.09);
+}
+
+footer .socialmedia {
+    margin-bottom: 15px; 
+}
+
+footer a {
+    color: #28233d;
+}
+
+
+
+footer a:hover {
+
+    color: #036635;
+
+}
+
+
+
+.card {
+
+    border: none;
+
+    border-radius: 8px;
+
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+.card img {
+
+    border-radius: 8px 8px 0 0;
+
+}
