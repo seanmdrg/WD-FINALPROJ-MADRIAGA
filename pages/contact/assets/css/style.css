@@ -33,17 +33,12 @@ body {
 
 header {
 
-     background-color: #ffffff ; /* Brown background for navbar */
-
+     background-color: #ffffff ; 
     background-size: cover;
-
-    color: #f4f1e1; /* Cream color text */
-
+    color: #f4f1e1; 
     padding: 10em 0;
-
     text-align: center;
-
-    height: 400px; /* Set a fixed height for the header */
+    height: 400px; 
 
 }
 
@@ -52,8 +47,7 @@ header {
 header h1 {
 
     font-size: 3em;
-
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional: Add text shadow for better visibility */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
 
@@ -120,31 +114,79 @@ section {
   .add-to-cart-btn:hover {
     background-color: #0056b3;
   }
-footer {
-    background-color: #ffffff; 
-    color: #28233d;
-    text-align: center;
-    padding: 20px 0;
+  .footer{
+    line-height: 1.5;
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(255, 255, 255);
+    padding: 70px  0;
     border-top: 2px solid rgba(0, 0, 0, 0.09);
 }
-
-footer .socialmedia {
-    margin-bottom: 15px; 
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-col h4{
+    font-size: 18px;
+    color: rgb(63, 63, 63);
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color:#005c0396;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+.footer-col ul li a{
+font-size: 16px;
+margin-left: -30px;
+text-transform: capitalize;
+color: #ffffff;
+text-decoration: none;
+font-weight: 300;
+color: #bbbbbb;
+display: block;
+transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+    color: #2a2a2a;
+    padding-left: 10px;
+}
+.footer-col .social-links a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(255, 255, 255, 0.3);
+    margin: 0 10px 10px 0 ;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: rgb(66, 66, 66);
+    transition: 0.5s all ease;
+}
+.footer-col .social-links a:hover{
+color: #24262b;
+background-color: rgb(146, 146, 146);
+}
+ul{
+    list-style: none;
 }
 
-footer a {
-    color: #28233d;
+@media(max-width: 767px){
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+    }
 }
-
-
-
-footer a:hover {
-
-    color: #036635;
-
-}
-
-
 
 .card {
 
