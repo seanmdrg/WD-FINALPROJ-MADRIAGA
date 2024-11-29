@@ -24,6 +24,8 @@
 
 ---
 
+
+
 <br />
 <br />
 
@@ -74,9 +76,7 @@ Guiding Question:
 
 ### Technology
 <!-- TODO: List of Technology Used -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/15cb8e1d-e6bf-4f22-b292-90e995925fd6/project/5897fae2-7240-4fbe-aa04-1fa97f1739a2.svg)](https://wakatime.com/badge/user/15cb8e1d-e6bf-4f22-b292-90e995925fd6/project/5897fae2-7240-4fbe-aa04-1fa97f1739a2)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
