@@ -9,11 +9,11 @@
     <img src="assets/img/LOGO.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Starbucks Coffee</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ Welcome to Starbucks Coffee! Explore our wide range of handcrafted beverages, delicious food, and exclusive gift cards. Discover seasonal offerings, browse our menu, and connect with us—all in one place. Your Starbucks experience, just a click away!
 </div>
 
 <br />
@@ -38,21 +38,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#overview">Menu</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#key-components">Giftcards</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#technology">About</a>
         </li>
       </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#rule,-practices-and-principles">Contact</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#resources">Home</a>
     </li>
   </ol>
 </details>
@@ -67,8 +67,11 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+- The project is a Starbucks-themed website designed to provide an immersive user experience for customers.
 - Whats the purpose
+- Showcase Starbucks products, including beverages, food, and gift cards.
 - What are key components
+- 
 - What technology used and how it is used
 
 ### Key Components
