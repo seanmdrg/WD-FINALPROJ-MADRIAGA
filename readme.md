@@ -22,6 +22,10 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
+
+[![wakatime](https://wakatime.com/badge/user/15cb8e1d-e6bf-4f22-b292-90e995925fd6/project/5897fae2-7240-4fbe-aa04-1fa97f1739a2.svg)](https://wakatime.com/badge/user/15cb8e1d-e6bf-4f22-b292-90e995925fd6/project/5897fae2-7240-4fbe-aa04-1fa97f1739a2)
+
+
 ---
 
 
@@ -76,7 +80,8 @@ Guiding Question:
 
 ### Technology
 <!-- TODO: List of Technology Used -->
-[![wakatime](https://wakatime.com/badge/user/15cb8e1d-e6bf-4f22-b292-90e995925fd6/project/5897fae2-7240-4fbe-aa04-1fa97f1739a2.svg)](https://wakatime.com/badge/user/15cb8e1d-e6bf-4f22-b292-90e995925fd6/project/5897fae2-7240-4fbe-aa04-1fa97f1739a2)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
